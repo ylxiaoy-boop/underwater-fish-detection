@@ -162,8 +162,8 @@ ultralytics-main/
 │   └── cfg/                      # 模型和数据集配置
 ├── tools/                       # 数据处理和训练脚本
 ├── reports/                     # 实验报告和效果图
-├── datasets/                    # 本地数据，不建议提交到 Git
-└── runs/                        # 本地训练结果，不建议整体提交到 Git
+├── datasets/                    # 本地数据
+└── runs/                        # 本地训练结果
 ```
 
 ## 7. 个人完成内容
