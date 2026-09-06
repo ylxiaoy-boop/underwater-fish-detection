@@ -191,5 +191,3 @@ ultralytics-main/
 - SFS-Conv paper: https://openaccess.thecvf.com/content/CVPR2024/html/Li_Unleashing_Channel_Potential_Space-Frequency_Selection_Convolution_for_SAR_Object_Detection_CVPR_2024_paper.html
 - SFS-Conv official repository: https://github.com/like413/SFS-Conv
 - Aquarium-qlnqy dataset: https://huggingface.co/datasets/Francesco/aquarium-qlnqy
-
-本项目保留 Ultralytics 的 AGPL-3.0 许可证。上传或再分发时请保留根目录 `LICENSE` 文件，并明确说明本项目是在 Ultralytics 基础上的二次开发。
